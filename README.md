@@ -7,7 +7,7 @@ Ideas I still believe in that I've pitched somewhere publicly accessible
 | AMRK[^long] | 2023-03-16 | $30.21 | $396.11 | [🎤](https://twitter.com/astridwilde1/status/1636556909120753664 "Twitter Spaces pitch") | 6 |
 
 ### 🍍 Still Ripening Bets
-Ideas I believe in but haven't yet pitched in public
+Ideas I find interesting right now but haven't pitched somewhere public
 | Ticker       | Date       | Price   | SPY     | Period (years) |
 |:------------:|:----------:|:-------:|:-------:|:-------:|
 | GSL          | [2022-09-17](https://twitter.com/astridwilde1/status/1571160944692334598) | $18.04 | $385.56 | 3 |
@@ -22,9 +22,9 @@ Ideas I believe in but haven't yet pitched in public
 
 ### 🗑️ Ideas
 Ideas I had that I no longer think will outperform
-| Ticker      | Date       | Price   | SPY     | Period (years) |
-|:-----------:|:----------:|:-------:|:-------:|:-------:|
-| SLNH[^long] | [2022-01-16](https://astridwilde.substack.com/p/soluna "Soluna Pitch") | $10.79  | $464.72 | 3 |
+| Ticker      | Date       | Price   | SPY     | Pitch | Period (years) |
+|:-----------:|:----------:|:-------:|:-------:|:-----:|:-------:|
+| SLNH[^long] | 2022-01-16 | $10.79  | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
 
 ### 🙊 Secret Bets
 Ideas that for some reason or another I'm not yet ready to talk about. Maybe they are too small a marketcap or float and talking about them in public feels irresponsible. Or maybe I'm just keeping the best ideas for myself.
