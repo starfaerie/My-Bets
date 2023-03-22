@@ -16,6 +16,7 @@ Ideas I believe in but haven't yet pitched in public
 | JXN          | 2023-03-17 | $34.79	 | $389.99 | 7 |
 | VNO          | 2023-03-17 | $14.20	 | $389.99 | 4 |
 | AFM.V[^long] | 2023-03-17 | $0.71    | $389.99 | 5 |
+| ARCH[^long]  | 2023-03-21 | $131.40  | $398.91 | 2 |
 
 ---
 
