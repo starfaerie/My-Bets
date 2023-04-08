@@ -9,5 +9,9 @@ A collection of publicly traded securities I am actively researching, organized 
 | ZS           | 2023-04-06 |
 | TWLO         | 2023-04-06 |
 
+### 💊 Pharma
+| Ticker       | Date       |
+|:------------:|:----------:|
+| CRL          | 2023-04-07 |
 
 #### Footnotes:
