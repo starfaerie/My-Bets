@@ -14,4 +14,15 @@ A collection of publicly traded securities I am actively researching, organized 
 |:------------:|:----------:|
 | CRL          | 2023-04-07 |
 
+### 💵 Fintech / Payments as a Service
+| Ticker       | Date       |
+|:------------:|:----------:|
+| RELY         | 2023-04-23 |
+
+### 🪧 Adtech
+| Ticker       | Date       |
+|:------------:|:----------:|
+| APP          | 2023-04-27 |
+| APPS         | 2023-04-27 |
+
 #### Footnotes:
