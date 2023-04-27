@@ -14,7 +14,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | RIG          | 2023-03-17 | $5.63	   | $389.99 | 5 |
 | GLNG[^long]  | 2023-03-17 | $20.27	 | $389.99 | 4 |
 | JXN          | 2023-03-17 | $34.79	 | $389.99 | 7 |
-| VNO          | 2023-03-17 | $14.20	 | $389.99 | 4 |
+| VNO[^long]   | 2023-03-17 | $14.20	 | $389.99 | 4 |
 | AFM.V[^long] | 2023-03-17 | $0.71    | $389.99 | 5 |
 | ARCH[^long]  | 2023-03-21 | $131.40  | $398.91 | 2 |
 | DK           | 2023-03-24 | $21.87   | $395.75 | 2 |
@@ -24,6 +24,8 @@ Ideas I find interesting right now but haven't pitched somewhere public
 
 ### 🗑️ Ideas
 Ideas I had that I no longer think will outperform
+
+*🍋 = ideas from 'Still Ripening Bets' that have soured*
 | Ticker      | Date       | Price   | SPY     | Pitch | Period (years) |
 |:-----------:|:----------:|:-------:|:-------:|:-----:|:-------:|
 | SLNH[^long] | 2022-01-16 | $10.79  | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
