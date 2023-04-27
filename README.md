@@ -19,7 +19,6 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | ARCH[^long]  | 2023-03-21 | $131.40  | $398.91 | 2 |
 | DK           | 2023-03-24 | $21.87   | $395.75 | 2 |
 | PBR-A        | 2023-03-27 | $8.92    | $396.49 | 1 |
-| WU           | 2023-04-12 | $11.11   | $408.11 | 2 |
 
 ---
 
@@ -28,6 +27,7 @@ Ideas I had that I no longer think will outperform
 | Ticker      | Date       | Price   | SPY     | Pitch | Period (years) |
 |:-----------:|:----------:|:-------:|:-------:|:-----:|:-------:|
 | SLNH[^long] | 2022-01-16 | $10.79  | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
+| WU           | 2023-04-12 | $11.11   | $408.11 | 🍋 | 2 |
 
 ### 🙊 Secret Bets
 Ideas that for some reason or another I'm not yet ready to talk about. Maybe they are too small a marketcap or float and talking about them in public feels irresponsible. Or maybe I'm just keeping the best ideas for myself.
