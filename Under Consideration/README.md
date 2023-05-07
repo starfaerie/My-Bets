@@ -90,4 +90,12 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | SPOT         | 2023-05-06 |
 | TME          | 2023-05-06 |
 
+### 💾 Semiconductors
+| Ticker       | Date Added |
+|:------------:|:----------:|
+| SIMO         | 2023-05-06 |
+| AMD          | 2023-05-06 |
+| AEHR         | 2023-05-06 |
+| TSM          | 2023-05-06 |
+
 #### Footnotes:
