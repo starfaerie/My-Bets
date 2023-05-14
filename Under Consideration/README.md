@@ -41,6 +41,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | APP          | 2023-04-27 |
 | APPS         | 2023-04-27 |
 | META         | 2023-05-06 |
+| OB           | 2023-05-13 |
 
 ### 🚜 Agritech
 | Ticker       | Date Added |
@@ -97,5 +98,6 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | AMD          | 2023-05-06 |
 | AEHR         | 2023-05-06 |
 | TSM          | 2023-05-06 |
+| COHR         | 2023-05-13 |
 
 #### Footnotes:
