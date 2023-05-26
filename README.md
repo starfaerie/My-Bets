@@ -20,6 +20,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | DK           | 2023-03-24 | $21.87   | $395.75 | 2 |
 | PBR-A        | 2023-03-27 | $8.92    | $396.49 | 1 |
 | BTI[^long]   | 2023-05-25 | $32.53   | $414.65 | 3 |
+| SEMR[^long]  | 2023-05-26 | $7.45    | $420.02 | 4 |
 
 ---
 
