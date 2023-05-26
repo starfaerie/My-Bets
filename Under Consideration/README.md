@@ -60,6 +60,13 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | TS           | 2023-05-06 |
 | ASTL         | 2023-05-06 |
 
+### 🚀 Space and Satellites
+| Ticker       | Date Added |
+|:------------:|:----------:|
+| TDG          | 2023-05-25 |
+| VSAT         | 2023-05-25 |
+| GOGO         | 2023-05-25 |
+
 ### 🏠 Housing and Real Estate
 | Ticker       | Date Added |
 |:------------:|:----------:|
@@ -74,6 +81,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | ALLY         | 2023-05-06 |
 | SCHW         | 2023-05-06 |
 | WAL          | 2023-05-06 |
+| TFC          | 2023-05-25 |
 
 ### 🧸 Consumer Goods
 | Ticker       | Date Added |
