@@ -100,6 +100,8 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | NTDOY        | 2023-05-06 |
 | SPOT         | 2023-05-06 |
 | TME          | 2023-05-06 |
+| UMG.AS       | 2023-05-25 |
+| FOXA         | 2023-05-25 |
 
 ### 💾 Semiconductors
 | Ticker       | Date Added |
