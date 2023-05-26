@@ -91,6 +91,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | VFC          | 2023-05-06 |
 | SIG          | 2023-05-18 |
 | BIRD         | 2023-05-18 |
+| ULTA         | 2023-05-26 |
 
 ### 📺 Media
 | Ticker       | Date Added |
