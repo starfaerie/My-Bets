@@ -12,6 +12,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | BB           | 2023-05-06 |
 | UBER         | 2023-05-06 |
 | NET          | 2023-05-06 |
+| MELI         | 2023-08-02 |
 
 ### 💊 Pharma
 | Ticker       | Date Added |
@@ -92,6 +93,8 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | SIG          | 2023-05-18 |
 | BIRD         | 2023-05-18 |
 | ULTA         | 2023-05-26 |
+| ELF          | 2023-08-02 |
+| BIRD         | 2023-08-02 |
 
 ### 📺 Media
 | Ticker       | Date Added |
@@ -103,6 +106,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | TME          | 2023-05-06 |
 | UMG.AS       | 2023-05-25 |
 | FOXA         | 2023-05-25 |
+| GRVY         | 2023-08-02 |
 
 ### 💾 Semiconductors
 | Ticker       | Date Added |
@@ -112,5 +116,6 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | AEHR         | 2023-05-06 |
 | TSM          | 2023-05-06 |
 | COHR         | 2023-05-13 |
+| AWE.L        | 2023-08-02 |
 
 #### Footnotes:
