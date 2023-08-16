@@ -83,6 +83,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | SCHW         | 2023-05-06 |
 | WAL          | 2023-05-06 |
 | TFC          | 2023-05-25 |
+| DFS          | 2023-08-15 |
 
 ### 🧸 Consumer Goods
 | Ticker       | Date Added |
@@ -107,6 +108,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | UMG.AS       | 2023-05-25 |
 | FOXA         | 2023-05-25 |
 | GRVY         | 2023-08-02 |
+| WMG          | 2023-08-15 |
 
 ### 💾 Semiconductors
 | Ticker       | Date Added |
