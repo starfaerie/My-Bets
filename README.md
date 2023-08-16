@@ -27,7 +27,6 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | PLCE[^long]  | 2023-08-02 | $31.39   | $450.13 | 3 |
 | OEC[^long]   | 2023-08-02 | $21.32   | $450.13 | 4 |
 | CIB[^long]   | 2023-08-02 | $28.60   | $450.13 | 2 |
-| AAMC[^long]  | 2023-08-02 | $43.00   | $450.13 | 3 |
 | CSO.V        | 2023-08-11 | $0.58    | $445.58 | 2 |
 | TCX          | 2023-08-11 | $20.48   | $445.58 | 5 |
 
@@ -42,6 +41,7 @@ Ideas I had that I no longer think will outperform
 |:-----------:|:----------:|:-------:|:-------:|:-----:|:-------:|
 | SLNH        | 2022-01-16 | $10.79   | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
 | WU          | 2023-04-12 | $11.11   | $408.11 | 🍋 | 2 |
+| AAMC        | 2023-08-02 | $43.00   | $450.13 | 🍋 | 3 |
 
 ### 🙊 Secret Bets
 Ideas that for some reason or another I'm not yet ready to talk about. Maybe they are too small a marketcap or float and talking about them in public feels irresponsible. Or maybe I'm just keeping the best ideas for myself.
