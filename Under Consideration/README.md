@@ -95,7 +95,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | BIRD         | 2023-05-18 |
 | ULTA         | 2023-05-26 |
 | ELF          | 2023-08-02 |
-| BIRD         | 2023-08-02 |
+| ATZ.TO       | 2023-08-19 |
 
 ### 📺 Media
 | Ticker       | Date Added |
