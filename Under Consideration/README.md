@@ -97,6 +97,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | ULTA         | 2023-05-26 |
 | ELF          | 2023-08-02 |
 | ATZ.TO       | 2023-08-19 |
+| CWH          | 2023-09-17 |
 
 ### 📺 Media
 | Ticker       | Date Added |
