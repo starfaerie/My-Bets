@@ -60,6 +60,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | FREY         | 2023-05-06 |
 | TS           | 2023-05-06 |
 | ASTL         | 2023-05-06 |
+| OLN          | 2023-09-17 |
 
 ### 🚀 Space and Satellites
 | Ticker       | Date Added |
