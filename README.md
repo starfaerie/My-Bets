@@ -10,7 +10,7 @@ Ideas I still believe in that I've pitched somewhere publicly accessible
 Ideas I find interesting right now but haven't pitched somewhere public
 | Ticker       | Date       | Price   | SPY     | Period (years) |
 |:------------:|:----------:|:-------:|:-------:|:-------:|
-| GSL          | [2022-09-17](https://twitter.com/astridwilde1/status/1571160944692334598) | $18.04 | $385.56 | 3 |
+| GSL[^long]   | [2022-09-17](https://twitter.com/astridwilde1/status/1571160944692334598) | $18.04 | $385.56 | 3 |
 | RIG          | 2023-03-17 | $5.63	   | $389.99 | 5 |
 | GLNG         | 2023-03-17 | $20.27	 | $389.99 | 4 |
 | JXN          | 2023-03-17 | $34.79	 | $389.99 | 7 |
@@ -19,7 +19,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | ARCH         | 2023-03-21 | $131.40  | $398.91 | 2 |
 | DK           | 2023-03-24 | $21.87   | $395.75 | 2 |
 | PBR-A        | 2023-03-27 | $8.92    | $396.49 | 1 |
-| BTI[^long]   | 2023-05-25 | $32.53   | $414.65 | 3 |
+| BTI          | 2023-05-25 | $32.53   | $414.65 | 3 |
 | SEMR[^long]  | 2023-05-26 | $7.45    | $420.02 | 4 |
 | TRP[^long]   | 2023-08-02 | $36.01   | $450.13 | 3 |
 | NEXOY[^long] | 2023-08-02 | $17.97   | $450.13 | 5 |
