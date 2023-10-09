@@ -77,6 +77,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | LPX          | 2023-05-06 |
 | BLDR         | 2023-05-06 |
 | DOUG         | 2023-05-06 |
+| GEO          | 2023-10-09 |
 
 ### 🏦 Banks
 | Ticker       | Date Added |
