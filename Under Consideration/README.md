@@ -13,6 +13,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | UBER         | 2023-05-06 |
 | NET          | 2023-05-06 |
 | MELI         | 2023-08-02 |
+| SNPS         | 2023-10-08 |
 
 ### 💊 Pharma
 | Ticker       | Date Added |
