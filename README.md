@@ -31,7 +31,8 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | TCX[^long]   | 2023-08-11 | $20.48   | $445.58 | 5 |
 | DEC.L        | 2023-09-17 | £87.80   | $443.37 | 3 |
 | NTDOY        | 2023-09-17 | $10.62   | $443.37 | 4 |
-
+| ULTA         | 2023-10-14 | $379.43  | $431.50 | 5 |
+| CRL          | 2023-10-14 | $191.02  | $431.50 | 5 |
 
 ---
 
