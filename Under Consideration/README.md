@@ -14,6 +14,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | NET          | 2023-05-06 |
 | MELI         | 2023-08-02 |
 | SNPS         | 2023-10-08 |
+| SE           | 2023-10-22 |
 
 ### 💊 Pharma
 | Ticker       | Date Added |
@@ -100,6 +101,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | ELF          | 2023-08-02 |
 | ATZ.TO       | 2023-08-19 |
 | CWH          | 2023-09-17 |
+| FSLR         | 2023-10-22 |
 
 ### 📺 Media
 | Ticker       | Date Added |
@@ -123,5 +125,6 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | TSM          | 2023-05-06 |
 | COHR         | 2023-05-13 |
 | AWE.L        | 2023-08-02 |
+| TXN          | 2023-10-22 |
 
 #### Footnotes:
