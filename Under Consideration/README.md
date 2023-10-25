@@ -15,6 +15,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | MELI         | 2023-08-02 |
 | SNPS         | 2023-10-08 |
 | SE           | 2023-10-22 |
+| DBX          | 2023-10-24 |
 
 ### 💊 Pharma
 | Ticker       | Date Added |
@@ -63,6 +64,7 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | TS           | 2023-05-06 |
 | ASTL         | 2023-05-06 |
 | OLN          | 2023-09-17 |
+| GSM          | 2023-10-24 |
 
 ### 🚀 Space and Satellites
 | Ticker       | Date Added |
