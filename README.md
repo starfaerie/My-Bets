@@ -32,6 +32,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | NTDOY[^long] | 2023-09-17 | $10.62   | $443.37 | 4 |
 | ULTA[^long]  | 2023-10-14 | $379.43  | $431.50 | 5 |
 | CRL[^long]   | 2023-10-14 | $191.02  | $431.50 | 5 |
+| DNTL.TO      | 2023-11-22 | $5.62    | $455.02 | 2 |
 
 ---
 
