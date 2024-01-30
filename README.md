@@ -34,6 +34,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | CRL[^long]   | 2023-10-14 | $191.02  | $431.50 | 5 |
 | DNTL.TO      | 2023-11-22 | $5.62    | $455.02 | 2 |
 | BABA[^long]  | 2023-11-27 | $77.53   | $454.48 | 1 |
+| CPNG[^long]  | 2024-01-29 | $14.53   | $491.27 | 3 |
 
 ---
 
