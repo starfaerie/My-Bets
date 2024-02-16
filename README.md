@@ -24,7 +24,6 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | TRP          | 2023-08-02 | $36.01   | $450.13 | 3 |
 | NEXOY[^long] | 2023-08-02 | $17.97   | $450.13 | 5 |
 | KUT.V        | 2023-08-02 | $3.70    | $450.13 | 3 |
-| PLCE[^long]  | 2023-08-02 | $31.39   | $450.13 | 3 |
 | OEC[^long]   | 2023-08-02 | $21.32   | $450.13 | 4 |
 | CIB[^long]   | 2023-08-02 | $28.60   | $450.13 | 2 |
 | TCX[^long]   | 2023-08-11 | $20.48   | $445.58 | 5 |
@@ -36,6 +35,11 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | BABA[^long]  | 2023-11-27 | $77.53   | $454.48 | 1 |
 | CPNG[^long]  | 2024-01-29 | $14.53   | $491.27 | 3 |
 
+### ⚖️ Concluded Bets
+| Ticker | Date | Start Price | End Price | Period (years) | Percentage change | SPY close on date of bet | Performance vs. SPY |
+|:------------:|:----------:|:-------:|:-------:|:-------:|:----:|:----:|:----:|
+| CBIT.V       | 2022-12-30[^competition] | $0.04 | $0.12 | 1 | 200% | $382.43 | 173.82% |
+
 ---
 
 ### 🗑️ Ideas
@@ -44,18 +48,18 @@ Ideas I had that I no longer think will outperform
 *🍋 = ideas from 'Still Ripening Bets' that have soured*
 | Ticker      | Date       | Price   | SPY     | Pitch | Period (years) |
 |:-----------:|:----------:|:-------:|:-------:|:-----:|:-------:|
-| SLNH        | 2022-01-16 | $10.79   | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
+| SLNH[^long] | 2022-01-16 | $10.79   | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
 | WU          | 2023-04-12 | $11.11   | $408.11 | 🍋 | 2 |
 | AAMC        | 2023-08-02 | $43.00   | $450.13 | 🍋 | 3 |
 | CSO.V       | 2023-08-11 | $0.58    | $445.58 | 🍋 | 2 |
+| PLCE        | 2023-08-02 | $31.39   | $450.13 | 🍋 | 3 |
 
 ### 🙊 Secret Bets
 Ideas that for some reason or another I'm not yet ready to talk about. Maybe they are too small a marketcap or float and talking about them in public feels irresponsible. Or maybe I'm just keeping the best ideas for myself.
 | Date       | SPY     | Period (years) |
 :-----------:|:-------:|:-------:|
-| 2022-12-30[^competition] | $382.43 | 1 |
-| [2023-02-03](https://twitter.com/astridwilde1/status/1621603943326547968 "Encrypted Tweet") | 412.35 | 5 |
-| [2023-02-21](https://twitter.com/astridwilde1/status/1628168931537215489 "Encrypted Tweet") | 399.09 | 5 |
+| [2023-02-03](https://twitter.com/astridwilde1/status/1621603943326547968 "Encrypted Tweet") | $412.35 | 5 |
+| [2023-02-21](https://twitter.com/astridwilde1/status/1628168931537215489 "Encrypted Tweet") | $399.09 | 5 |
 | [2023-03-20](https://twitter.com/astridwilde1/status/1638046033744908289 "Encrypted Tweet") | $393.74 | 3 |
 
 
@@ -65,4 +69,4 @@ Ideas that for some reason or another I'm not yet ready to talk about. Maybe the
 [^date]: date I added it here or seriously pitched it for the first time, whichever came first
 [^price]: closing price date of publishing
 [^long]: I have a beneficial long position in the stock as of my last revision of this document
-[^competition]: submitted as the long half of the fintwit [long/short contest](https://twitter.com/schaudenfraud/status/1607136785678606342). will be revealed when the contest finishes 2023 EOY.
+[^competition]: submitted as the long half of the fintwit [long/short contest](https://twitter.com/schaudenfraud/status/1607136785678606342). was revealed when the contest [finished](https://docs.google.com/spreadsheets/d/1LNorTrTeI3dK7uDOE91DCNOXIdW1UbFKDy1ozGNykY4/edit?usp=sharing) 2023 EOY.
