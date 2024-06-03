@@ -18,7 +18,6 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | AFM.V        | 2023-03-17 | $0.71    | $389.99 | 5 |
 | ARCH         | 2023-03-21 | $131.40  | $398.91 | 2 |
 | DK           | 2023-03-24 | $21.87   | $395.75 | 2 |
-| PBR-A        | 2023-03-27 | $8.92    | $396.49 | 1 |
 | BTI          | 2023-05-25 | $32.53   | $414.65 | 3 |
 | SEMR[^long]  | 2023-05-26 | $7.45    | $420.02 | 4 |
 | TRP          | 2023-08-02 | $36.01   | $450.13 | 3 |
@@ -34,11 +33,17 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | DNTL.TO      | 2023-11-22 | $5.62    | $455.02 | 2 |
 | BABA[^long]  | 2023-11-27 | $77.53   | $454.48 | 1 |
 | CPNG[^long]  | 2024-01-29 | $14.53   | $491.27 | 3 |
+| DAC          | 2024-05-31 | $96.77   | $527.37 | 1 |
+| ALAR         | 2024-05-31 | $35.58   | $527.37 | 3 |
+| APP          | 2024-05-31 | $81.47   | $527.37 | 3 |
+| RELY         | 2024-05-31 | $12.99   | $527.37 | 4 |
+| MOB.ST[^long] | 2024-05-31 | 25.50kr | $527.37 | 5 |
 
 ### ⚖️ Concluded Bets
 | Ticker | Date | Start Price | End Price | Period (years) | Percentage change | SPY close on date of bet | Performance vs. SPY |
 |:------------:|:----------:|:-------:|:-------:|:-------:|:----:|:----:|:----:|
 | CBIT.V       | 2022-12-30[^competition] | $0.04 | $0.12 | 1 | 200% | $382.43 | 173.82% |
+| PBR-A        | 2024-03-27[^dividends]  | $8.92 | $15.89 | 1 | 78.2%  | $518.81 | 45.39% |
 
 ---
 
@@ -70,3 +75,4 @@ Ideas that for some reason or another I'm not yet ready to talk about. Maybe the
 [^price]: closing price date of publishing
 [^long]: I have a beneficial long position in the stock as of my last revision of this document
 [^competition]: submitted as the long half of the fintwit [long/short contest](https://twitter.com/schaudenfraud/status/1607136785678606342). was revealed when the contest [finished](https://docs.google.com/spreadsheets/d/1LNorTrTeI3dK7uDOE91DCNOXIdW1UbFKDy1ozGNykY4/edit?usp=sharing) 2023 EOY.
+[^dividends]: after adjusting for dividends
