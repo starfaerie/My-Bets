@@ -43,7 +43,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | Ticker | Date | Start Price | End Price | Period (years) | Percentage change | SPY close on date of bet | Performance vs. SPY |
 |:------------:|:----------:|:-------:|:-------:|:-------:|:----:|:----:|:----:|
 | CBIT.V       | 2022-12-30[^competition] | $0.04 | $0.12 | 1 | 200% | $382.43 | 173.82% |
-| PBR-A        | 2023-03-27[^dividends]  | $8.92 | $15.89 | 1 | 78.2%  | $396.49 | 45.39% |
+| PBR-A        | 2023-03-27 | $8.92 | $15.89[^dividends] | 1 | 78.2%  | $396.49 | 45.39% |
 
 ---
 
