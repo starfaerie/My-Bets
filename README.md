@@ -17,10 +17,8 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | VNO[^long]   | 2023-03-17 | $14.20	 | $389.99 | 4 |
 | AFM.V        | 2023-03-17 | $0.71    | $389.99 | 5 |
 | ARCH         | 2023-03-21 | $131.40  | $398.91 | 2 |
-| DK           | 2023-03-24 | $21.87   | $395.75 | 2 |
 | BTI          | 2023-05-25 | $32.53   | $414.65 | 3 |
 | SEMR[^long]  | 2023-05-26 | $7.45    | $420.02 | 4 |
-| TRP          | 2023-08-02 | $36.01   | $450.13 | 3 |
 | NEXOY[^long] | 2023-08-02 | $17.97   | $450.13 | 5 |
 | KUT.V        | 2023-08-02 | $3.70    | $450.13 | 3 |
 | OEC[^long]   | 2023-08-02 | $21.32   | $450.13 | 4 |
@@ -53,11 +51,14 @@ Ideas I had that I no longer think will outperform
 *🍋 = ideas from 'Still Ripening Bets' that have soured*
 | Ticker      | Date       | Price   | SPY     | Pitch | Period (years) |
 |:-----------:|:----------:|:-------:|:-------:|:-----:|:-------:|
-| SLNH[^long] | 2022-01-16 | $10.79   | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
+| SLNH        | 2022-01-16 | $10.79   | $464.72 | [📝](https://astridwilde.substack.com/p/soluna "Soluna Write-Up") | 3 |
 | WU          | 2023-04-12 | $11.11   | $408.11 | 🍋 | 2 |
 | AAMC        | 2023-08-02 | $43.00   | $450.13 | 🍋 | 3 |
 | CSO.V       | 2023-08-11 | $0.58    | $445.58 | 🍋 | 2 |
 | PLCE        | 2023-08-02 | $31.39   | $450.13 | 🍋 | 3 |
+| TRP         | 2023-08-02 | $36.01   | $450.13 | 🍋 | 3 |
+| DK          | 2023-03-24 | $21.87   | $395.75 | 🍋 | 2 |
+
 
 ### 🙊 Secret Bets
 Ideas that for some reason or another I'm not yet ready to talk about. Maybe they are too small a marketcap or float and talking about them in public feels irresponsible. Or maybe I'm just keeping the best ideas for myself.
