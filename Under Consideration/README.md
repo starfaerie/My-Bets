@@ -27,6 +27,8 @@ A collection of publicly traded securities on my watchlist or am actively resear
 | WST          | 2023-05-06 |
 | RGEN         | 2023-05-06 |
 | AMGN         | 2023-05-06 |
+| CLPT         | 2024-06-17 |
+| REGN         | 2024-06-17 |
 
 ### 💰 Insurance
 | Ticker       | Date Added |
