@@ -4,7 +4,7 @@ A collection of publicly traded securities I think will outperform[^outperform] 
 Ideas I still believe in that I've pitched somewhere publicly accessible
 | Ticker    | Date[^date] | Price[^price] | SPY | Pitch | Period (years) |
 |:-----------:|:----------:|:------:|:-------:|:-------:|:-------:|
-| AMRK[^long] | 2023-03-16 | $30.21 | $396.11 | [🎤](https://twitter.com/astridwilde1/status/1636556909120753664 "Twitter Spaces pitch") | 6 |
+| AMRK  | 2023-03-16 | $30.21 | $396.11 | [🎤](https://twitter.com/astridwilde1/status/1636556909120753664 "Twitter Spaces pitch") | 6 |
 
 ### 🍍 Still Ripening Bets
 Ideas I find interesting right now but haven't pitched somewhere public
@@ -34,6 +34,7 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | APP[^long]   | 2024-05-31 | $81.47   | $527.37 | 3 |
 | RELY         | 2024-05-31 | $12.99   | $527.37 | 4 |
 | MOB.ST[^long] | 2024-05-31 | 25.50kr | $527.37 | 5 |
+| GRVY[^long]  | 2024-07-09 | $80.96   | $555.82 | 1 |
 
 
 ### ⚖️ Concluded Bets
