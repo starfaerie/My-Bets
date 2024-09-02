@@ -11,7 +11,6 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | Ticker       | Date       | Price   | SPY     | Period (years) |
 |:------------:|:----------:|:-------:|:-------:|:-------:|
 | GSL[^long]   | [2022-09-17](https://twitter.com/astridwilde1/status/1571160944692334598) | $18.04 | $385.56 | 3 |
-| RIG          | 2023-03-17 | $5.63	   | $389.99 | 5 |
 | GLNG         | 2023-03-17 | $20.27	 | $389.99 | 4 |
 | JXN          | 2023-03-17 | $34.79	 | $389.99 | 7 |
 | VNO          | 2023-03-17 | $14.20	 | $389.99 | 4 |
@@ -60,6 +59,7 @@ Ideas I had that I no longer think will outperform
 | DEC.L       | 2023-09-17 | £87.80   | $443.37 | 🍋 | 3 |
 | ALAR        | 2024-05-31 | $35.58   | $527.37 | 🍋 | 3 |
 | ARCH        | 2023-03-21 | $131.40  | $398.91 | 🍋 | 2 |
+| RIG         | 2023-03-17 | $5.63	  | $389.99 | 🍋 | 5 |
 
 
 ### 🙊 Secret Bets
