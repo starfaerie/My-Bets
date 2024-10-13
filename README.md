@@ -31,8 +31,6 @@ Ideas I find interesting right now but haven't pitched somewhere public
 | APP[^long]   | 2024-05-31 | $81.47   | $527.37 | 3 |
 | RELY         | 2024-05-31 | $12.99   | $527.37 | 4 |
 | MOB.ST[^long] | 2024-05-31 | 25.50kr | $527.37 | 5 |
-| GRVY[^long]  | 2024-07-09 | $80.96   | $555.82 | 1 |
-
 
 ### ⚖️ Concluded Bets
 | Ticker | Date | Start Price | End Price | Period (years) | Percentage change | SPY close on date of bet | Performance vs. SPY |
@@ -60,6 +58,8 @@ Ideas I had that I no longer think will outperform
 | ALAR        | 2024-05-31 | $35.58   | $527.37 | 🍋 | 3 |
 | ARCH        | 2023-03-21 | $131.40  | $398.91 | 🍋 | 2 |
 | RIG         | 2023-03-17 | $5.63	  | $389.99 | 🍋 | 5 |
+| GRVY        | 2024-07-09 | $80.96   | $555.82 | 🍋 | 1 |
+
 
 
 ### 🙊 Secret Bets
